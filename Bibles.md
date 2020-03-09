@@ -7,9 +7,9 @@ _The English works on this site are intended to be used as sources for translati
 |----|--------|----|-----|----------|-------|----
 |Accessible English| British | en-a | low | | | | Accessible English
 |Basic English | British | en-b| 1000 | Ogden | Ogden | 
-|Core English | British | en-c| 1500 | EasyEnglish | EasyEnglish | EasyEnglish
-|Developmental English | British| en-d | 2500 | EasyEnglish | EasyEnglish | EasyEnglish 
-|Easy English | British | en-e | 3500 | EasyEnglish Semantically Analysed Texts | | | 
+|Core English | British | en-c| 1500 | EasyEnglish level A word list | EasyEnglish | EasyEnglish
+|Developmental English | British| en-d | 2500 | EasyEnglish level B word list | EasyEnglish | EasyEnglish 
+|Easy English | British | en-e | 3500 | EasyEnglish Semantically Analysed Texts word list | | | 
 |English | British | ENG | Formal | Oxford | Cambridge | Oxford 
 |Restricted English |American |en-r| 1000 | en-r 
 |Special English | American |en-s | 1200 | VOA | VOA | VOA 
