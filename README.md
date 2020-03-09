@@ -27,9 +27,9 @@ This site is a repository for source code. The source here presented represents 
 
 |Section| Title            | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 
 |-------|------------------|---------|---------|---------|---------|--------
-| __N__ | [__NT Studies__](https://github.com/BeTheLight/ENG-N-NewTestamentStudies)| Outline | Inductive | 
-| __O__ | __OT Studies__   | Outline | Inductive | 
-| __P__ | __Pastoral__     |         | Philip | Planter | Pastor 
+| __N__ | __[Hermeneutics]__(https://github.com/BeTheLight/ENG-N-Hermeneutics)| Outline | Inductive | 
+| __O__ | __[Apologetics]__(https://github.com/BeTheLight/ENG-O-Apologetics) |  |  | 
+| __P__ | __[Pastoral]__(https://github.com/BeTheLight/ENG-P-Pastoral)     |         | Philip | Planter | Pastor 
 
 ### Library
 
