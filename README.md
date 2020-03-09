@@ -9,8 +9,8 @@ This site is a repository for source code. The source here presented represents 
 |-------|------------------|---------|---------|---------|---------|--------
 | __A__ | __Literacy__     | Light   | Door    | Path    | Road    | Bridge 
 | __B__ | __Bibles__       | Portions| Editions|Harmonies| Study   |
-| __C__ | __Christianity__ |         | Discover| New Life| Growing |
-| __D__ | __Discipleship__ |         | Maturing| Secret  | Fruit   | 
+| __C__ | __[Christianity](https://github.com/BeTheLight/ENG-C-Christianity-PSFM/tree/master/PDF)__ |         | Discover| New Life| Growing |
+| __D__ | __[Discipleship](https://github.com/BeTheLight/ENG-D-Discipleship-PSFM/tree/master/PDF)__ |         | Maturing| Secret  | Fruit   | 
 | __E__ | __Evangelism__   |         | Who Is  | Friend  | Help! |
 | __F__ | __Friends__      |         | Family  | Health  | Work    |  
 | __G__ | __Growth__       |         | Evangelism | Discipleship | Missions | 
