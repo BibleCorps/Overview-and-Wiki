@@ -16,14 +16,15 @@ _The English works on this site are intended to be used as sources for translati
 |American English |American| en-us | Formal | Websters | MLS | Chicago
 
 
-__Bibles__
+__Bible Volumes__
+_Portions of straight scripture_
 
-Volumes (Portions of straight scripture)
-
-|Lang|Code|Region|Location|Base Translation|License|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|
-|----|----|------|--------|----------------|-------|---|---|---|---|---|---|---|---|
-|     |    |      |        |                |       |Law|Kingdom|Exile|Writings||NT|Illustrated NT|Discipleship NT| Large Print NT|
-|ENG  |ENG |World | ALL | World English Bible (BE)| Public Domain|  
-|ENG  |en-t|Americas| USA| Dynamic English Bible| CC-By|
-|ENG  |en-u|Americas| USA| American King James Version| PD|
+|Lang Code|Region|Base Translation|License|0.1|0.2|0.3|0.4|0.5|
+|--------|------|----------------|-------|---|---|---|---|---|
+|        |      |        |                |       |Law|Kingdom|Exile|Writings|NT|
+|ENG |World | BASIC Bible | TBD | 
+|ENG |World | World English Bible (BE)| PD |  
+|en-t|Americas| Dynamic English Bible| CC-By|
+|en-u|Americas| American King James Version| PD|
+|CEB |Philippines 
 
