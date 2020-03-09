@@ -1,6 +1,6 @@
 __English Languages__
 
-_The English works on this site are intended to be used as sources for translation. In order to facilitate translation, the following codes are used to specifically identify the type of English used in each english work. not that the dashes in the language code will be used in descriptions but not filenames. That is, Basic English Bible is listed as en-b in tables, but the project name will be ENB-B-BBE1949(etc.)_
+_The English works on this site are intended to be used as sources for translation. In order to facilitate translation, the following codes are used to specifically identify the type of English used in each work. Note that the dashes in the language code will be used in descriptions but not filenames. That is, Basic English Bible is listed as en-b in tables, but the project name will be ENB-B-BBE1949(etc.)_
 
 
 |Name|Language|Code|Vocab|Dictionary|Grammar|Style
