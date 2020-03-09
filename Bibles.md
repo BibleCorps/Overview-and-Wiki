@@ -49,9 +49,9 @@ _NT Portions with special content_
 __Bible Editions__
 _Special Editions of the Whole Bible_
 
-|Region|Lang Code|Base Translation|License|1.0|1.1|1.2|1.3|1.6|1.7|1.8|
-|------|---------|----------------|-------|---|---|---|---|---|---|---|
-|        |      |                |       |Text|Reference|Study|Illustrated|Discipleship|Large Print|
+|Region|Lang Code|Base Translation|License|1.0|1.1|1.2|1.3|1.6|1.7|
+|------|---------|----------------|-------|---|---|---|---|---|---|
+|        |      |                |       |Text|Refs|Study|Illust|Disciple|Large Print|
 |World|en-b | BASIC Bible | TBD | 
 |World|ENG | World English Bible (BE)| PD |  
 |Africas|Fra|French Unlocked Literal Bible| CC-By|
