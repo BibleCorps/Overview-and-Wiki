@@ -19,12 +19,71 @@ _The English works on this site are intended to be used as sources for translati
 __Bible Volumes__
 _Portions of straight scripture_
 
-|Lang Code|Region|Base Translation|License|0.1|0.2|0.3|0.4|0.5|
+|Region|Lang Code|Base Translation|License|0.1|0.2|0.3|0.4|0.5|
 |--------|------|----------------|-------|---|---|---|---|---|
-|        |      |        |                |       |Law|Kingdom|Exile|Writings|NT|
-|ENG |World | BASIC Bible | TBD | 
-|ENG |World | World English Bible (BE)| PD |  
-|en-t|Americas| Dynamic English Bible| CC-By|
-|en-u|Americas| American King James Version| PD|
-|CEB |Philippines 
+|        |      |                |       |Law|Kingdom|Exile|Writings|NT|
+|World|en-b | BASIC Bible | TBD | 
+|World|ENG | World English Bible (BE)| PD |  
+|Africas|Fra|French Unlocked Literal Bible| CC-By|
+|Americas|en-t| Dynamic English Bible| CC-By|
+|Americas|en-u| American King James Version| PD|
+|Americas|Fra|Bible Segond 1910| PD|
+|Philippines|CEB | Cebuano Unlocked Literal Bible | CC-By | 
+|Philippines|ILO | Iloilo Unlocked Literal Bible | CC-By |
+| 
 
+__New Testaments__
+_NT Portions with special content_
+|Region|Lang Code|Base Translation|License|0.6|0.7|0.8|
+|--------|------|----------------|-------|---|---|---|
+|        |      |                |       |Illustrated NT| Discipleship NT| Large Print NT|
+|World|en-b | BASIC Bible | TBD | 
+|World|ENG | World English Bible (BE)| PD |  
+|Africas|Fra|French Unlocked Literal Bible| CC-By|
+|Americas|en-t| Dynamic English Bible| CC-By|
+|Americas|en-u| American King James Version| PD|
+|Americas|Fra|Bible Segond 1910| PD|
+|Philippines|CEB | Cebuano Unlocked Literal Bible | CC-By | 
+|Philippines|ILO | Iloilo Unlocked Literal Bible | CC-By |
+
+__Bible Editions__
+_Special Editions of the Whole Bible_
+
+|Region|Lang Code|Base Translation|License|1.0|1.1|1.2|1.3|1.6|1.7|1.8|
+|------|---------|----------------|-------|---|---|---|---|---|---|---|
+|        |      |                |       |Text|Reference|Study|Illustrated|Discipleship|Large Print|
+|World|en-b | BASIC Bible | TBD | 
+|World|ENG | World English Bible (BE)| PD |  
+|Africas|Fra|French Unlocked Literal Bible| CC-By|
+|Americas|en-t| Dynamic English Bible| CC-By|
+|Americas|en-u| American King James Version| PD|
+|Americas|Fra|Bible Segond 1910| PD|
+|Philippines|CEB | Cebuano Unlocked Literal Bible | CC-By | 
+|Philippines|ILO | Iloilo Unlocked Literal Bible | CC-By |
+
+__NT Remix__
+
+|Region|Lang Code|Base Translation|License|2.0|2.1|2.2|2.4|2.5|2.6|
+|------|---------|----------------|-------|---|---|---|---|---|---|
+|      |         |                |       |NT Remix|Gospels|Church|Paul|John| Jesus|
+|World|en-b | BASIC Bible | TBD | 
+|World|ENG | World English Bible (BE)| PD |  
+|Africas|Fra|French Unlocked Literal Bible| CC-By|
+|Americas|en-t| Dynamic English Bible| CC-By|
+|Americas|en-u| American King James Version| PD|
+|Americas|Fra|Bible Segond 1910| PD|
+|Philippines|CEB | Cebuano Unlocked Literal Bible | CC-By | 
+|Philippines|ILO | Iloilo Unlocked Literal Bible | CC-By |
+
+__OT Remix__
+|Region|Lang Code|Base Translation|License|3.0|3.1|3.2|3.3|3.4|3.5|
+|------|---------|----------------|-------|---|---|---|---|---|---|
+|        |      |                |       |OT Remix|Genesis|Journey|Kingdom|Exile|Laws|
+|World|en-b | BASIC Bible | TBD | 
+|World|ENG | World English Bible (BE)| PD |  
+|Africas|Fra|French Unlocked Literal Bible| CC-By|
+|Americas|en-t| Dynamic English Bible| CC-By|
+|Americas|en-u| American King James Version| PD|
+|Americas|Fra|Bible Segond 1910| PD|
+|Philippines|CEB | Cebuano Unlocked Literal Bible | CC-By | 
+|Philippines|ILO | Iloilo Unlocked Literal Bible | CC-By |
