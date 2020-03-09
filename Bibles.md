@@ -5,16 +5,16 @@ _The English works on this site are intended to be used as sources for translati
 
 |Name|Language|Code|Vocab|Dictionary|Grammar|Style
 |----|--------|----|-----|----------|-------|----
-|Accessible English| British | en-a | low | | | | Accessible English
-|Basic English | British | en-b| 1000 | Ogden | Ogden | 
-|Core English | British | en-c| 1500 | EasyEnglish level A word list | EasyEnglish | EasyEnglish
+|Accessible English| British | en-a ENA | low | | | | Accessible English
+|Basic English | British | en-b ENB| 1000 | Ogden | Ogden | 
+|Core English | British | en-c ENC| 1500 | EasyEnglish level A word list | EasyEnglish | EasyEnglish
 |Developmental English | British| en-d | 2500 | EasyEnglish level B word list | EasyEnglish | EasyEnglish 
-|Easy English | British | en-e | 3500 | EasyEnglish Semantically Analysed Texts word list | | | 
-|English | British | ENG | Formal | Oxford | Cambridge | Oxford 
-|Restricted English |American |en-r| 1000 | en-r 
-|Special English | American |en-s | 1200 | VOA | VOA | VOA 
-|Transitional English | American | en-t | 2500 | 
-|American English |American| en-us | Formal | Websters | MLS | Chicago
+|Easy English | British | en-e ENE | 3500 | EasyEnglish Semantically Analysed Texts word list | | | 
+|English | British | en-gb ENG | Formal | Oxford | Cambridge | Oxford 
+|Restricted English |American |en-r ENR| 1000 | en-r 
+|Special English | American |en-s ENS| 1200 | VOA | VOA | VOA 
+|Transitional English | American | en-t ENT| 2500 | 
+|American English |American| en-us ENU| Formal | Websters | MLS | Chicago
 
 
 __Bible Volumes__
