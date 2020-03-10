@@ -1,3 +1,5 @@
+|[Leave Feedback](https://github.com/BeTheLight/Overview-and-Wiki/issues) | [Editable Wiki](https://github.com/BeTheLight/Overview-and-Wiki/wiki) |
+|-|-|
 # BTL Contents
 
 This site is a repository for source code. The source here presented represents a Christian Library. 
