@@ -18,11 +18,10 @@ _The English works on this site are intended to be used as sources for translati
 
 
 __Bible Information__
-_Portions of straight scripture_
 
-|Region|Lang Code|Base Translation|Code |License|0.1|0.2|0.3|0.4|
-|--------|------|-----------------|-----|-------|---|---|---|---|
-|        |      |                 |    |       |Law|Kingdom|Exile|Writings|
+|Region|Lang Code|Base Translation|Code |License|Date|
+|--------|------|-----------------|-----|-------|----|
+|        |      |                 |    |       |
 |World   |en-b  | BASIC Bible     |ENB-BBE|  TBD | 
 |World   |ENG   |World English Bible British Edition|ENG-WEBBE | PD |  
 |Africas |Fra   |French Unlocked Literal Bible|FRA-ULB| CC-By|
@@ -32,19 +31,20 @@ _Portions of straight scripture_
 |Philippines|CEB| Cebuano Unlocked Literal Bible | CC-By | 
 |Philippines|ILO| Iloilo Unlocked Literal Bible | CC-By |
 
-__New Testaments__
-_NT Portions with special content_
-|Region|Lang Code|Base Translation|License|0.5|0.6|0.7|0.8|
-|--------|------|----------------|-------|---|---|---|---|
-|        |      |                |       |Text NT|Illustrated NT| Discipleship NT| Large Print NT|
-|World|en-b | BASIC Bible | TBD | 
-|World|ENG | World English Bible (BE)| PD |  
-|Africas|Fra|French Unlocked Literal Bible| CC-By|
-|Americas|en-t| Dynamic English Bible| CC-By|
-|Americas|en-u| American King James Version| PD|
-|Americas|Fra|Bible Segond 1910| PD|
-|Philippines|CEB | Cebuano Unlocked Literal Bible | CC-By | 
-|Philippines|ILO | Iloilo Unlocked Literal Bible | CC-By |
+__Bible Portions__
+_Portions of straight scripture_
+
+|Language|Code     |0.1|0.2|0.3|0.4|0.5 |0.6 |0.7  |0.8   |
+|--------|---------|---|---|---|---|----|----|-----|------|
+|        |         |Law|Kings|Exile|Writings|NT|Kids NT|Disciples NT|Large Print NT|
+|CEB     | ULB     |
+|en-b    | BBE1961 |
+|ENG     | WEBBE2020|
+|en-t    | DEB2020 |
+|en-u    | AKJV2018|
+|Fra     | LSG1910 |
+|Fra     | ULB     |
+|ILO     | ULB    |
 
 __Bible Editions__
 _Special Editions of the Whole Bible_
@@ -52,13 +52,13 @@ _Special Editions of the Whole Bible_
 |Language|Code     |1.0 |1.1 |1.2  |1.3   |1.6     |1.7        |
 |--------|---------|----|----|-----|------|--------|-----------|
 |        |         |Text|Refs|Study|Illust|Disciple|Large Print|
+|CEB     | ULB    |
 |en-b    | BBE1961 |
 |ENG     | WEBBE2020|
-|Fra     | ULB     |
 |en-t    | DEB2020 |
 |en-u    | AKJV2018|
 |Fra     | LSG1910 |
-|CEB     | ULB    |
+|Fra     | ULB     |
 |ILO     | ULB    |
 
 __NT Remix__
@@ -66,24 +66,24 @@ __NT Remix__
 |Language|Code     |2.0|2.1|2.2|2.4|2.5|2.6|
 |--------|---------|---|---|---|---|---|---|
 |        |         |NT Remix|Gospels|Church|Paul|John| Jesus|
+|CEB     | ULB     |
 |en-b    | BBE1961 |
 |ENG     | WEBBE2020|
-|Fra     | ULB     |
 |en-t    | DEB2020 |
 |en-u    | AKJV2018|
 |Fra     | LSG1910 |
-|CEB     | ULB    |
-|ILO     | ULB    |
+|Fra     | ULB     |
+|ILO     | ULB     |
 
 __OT Remix__
 |Language|Work     |3.0     |3.1    |3.2    |3.3    |3.4  |3.5 |
 |--------|---------|--------|-------|-------|-------|-----|----|
 |        |         |OT Remix|Genesis|Journey|Kingdom|Exile|Laws|
+|CEB     | ULB    |
 |en-b    | BBE1961 |
 |ENG     | WEBBE2020|
-|Fra     | ULB     |
 |en-t    | DEB2020 |
 |en-u    | AKJV2018|
 |Fra     | LSG1910 |
-|CEB     | ULB    |
+|Fra     | ULB     |
 |ILO     | ULB    |
