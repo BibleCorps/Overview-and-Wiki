@@ -19,16 +19,16 @@ _The English works on this site are intended to be used as sources for translati
 
 __Bible Information__
 
-|Region|Lang Code|Code |License|Date|Translation Name|
-|--------|------|------|-------|----|----------------|
-|World   |en-b  |ENB-BBE|  TBD |1961|  BASIC Bible   |
-|World   |ENG   |ENG-WEBBE| PD |2020|[World English Bible British Edition](https://github.com/BeTheLight/ENG-B-WEBBE2020-pd-Johnson/tree/master/Output/)|
-|Americas|en-t  |DEB   | CC-By |2020|[Dynamic English Bible](https://github.com/BeTheLight/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)|
-|Americas|en-u  |AKJV| PD      |2018|[American King James Version](https://github.com/BeTheLight/ENG-B-AKJV1999-pd-PSFM/tree/master/Output)|
-|Africas |Fra   |FRA-ULB| CC-By|2018|[French Unlocked Literal Bible](https://github.com/BeTheLight/FRA-B-ULB2019-cc-PSFM/tree/master/USFM)
-|Americas|Fra   |Bible Segond 1910| PD|
-|Philippines|CEB|ULB|CC-By|[Cebuano Unlocked Literal Bible](https://github.com/BeTheLight/CEB-B-ULB2019-CC-PSFM/tree/master/USFM) |
-|Philippines|ILO| Iloilo Unlocked Literal Bible | CC-By |
+|Lang|Region|Code |License|Date|Translation Name|
+|----|------|------|-------|----|----------------|
+|CEB|Philippines|ULB  |CC-By   |2019|[Cebuano Unlocked Literal Bible](https://github.com/BeTheLight/CEB-B-ULB2019-CC-PSFM/tree/master/USFM) |
+|en-b|World |ENB-BBE|  TBD |1961|  BASIC Bible   |
+|ENG |World |ENG-WEBBE| PD |2020|[World English Bible British Edition](https://github.com/BeTheLight/ENG-B-WEBBE2020-pd-Johnson/tree/master/Output/)|
+|en-t| USA  |DEB   | CC-By |2020|[Dynamic English Bible](https://github.com/BeTheLight/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)|
+|en-u| USA  |AKJV  | PD    |2019|[American King James Version](https://github.com/BeTheLight/ENG-B-AKJV1999-pd-PSFM/tree/master/Output)|
+|FRA |Africa|ULB   |CC-By  |2019|[French Unlocked Literal Bible](https://github.com/BeTheLight/FRA-B-ULB2019-cc-PSFM/tree/master/USFM)
+|FRA |USA   |LSG   |PD |Bible Segond 1910|
+|ILO | Philippines|ULB|2019| Iloilo Unlocked Literal Bible | 
 
 __Bible Portions__
 _Portions of straight scripture_
