@@ -19,16 +19,15 @@ _The English works on this site are intended to be used as sources for translati
 
 __Bible Information__
 
-|Region|Lang Code|Base Translation|Code |License|Date|
-|--------|------|-----------------|-----|-------|----|
-|        |      |                 |    |       |
-|World   |en-b  | BASIC Bible     |ENB-BBE|  TBD | 
-|World   |ENG   |World English Bible British Edition|ENG-WEBBE | PD |  
-|Africas |Fra   |French Unlocked Literal Bible|FRA-ULB| CC-By|
-|Americas|en-t  |[Dynamic English Bible](https://github.com/BeTheLight/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)| CC-By|
-|Americas|en-u  |American King James Version| PD|
+|Region|Lang Code|Code |License|Date|Translation Name|
+|--------|------|------|-------|----|----------------|
+|World   |en-b  |ENB-BBE|  TBD |1961|  BASIC Bible   |
+|World   |ENG   |ENG-WEBBE| PD |2020|[World English Bible British Edition](https://github.com/BeTheLight/ENG-B-WEBBE2020-pd-Johnson/tree/master/Output/)|
+|Americas|en-t  |DEB   | CC-By |2020|[Dynamic English Bible](https://github.com/BeTheLight/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)|
+|Americas|en-u  |AKJV| PD      |2018|[American King James Version](https://github.com/BeTheLight/ENG-B-AKJV1999-pd-PSFM/tree/master/Output)|
+|Africas |Fra   |FRA-ULB| CC-By|2018|[French Unlocked Literal Bible](https://github.com/BeTheLight/FRA-B-ULB2019-cc-PSFM/tree/master/USFM)
 |Americas|Fra   |Bible Segond 1910| PD|
-|Philippines|CEB| Cebuano Unlocked Literal Bible | CC-By | 
+|Philippines|CEB|ULB|CC-By|[Cebuano Unlocked Literal Bible](https://github.com/BeTheLight/CEB-B-ULB2019-CC-PSFM/tree/master/USFM) |
 |Philippines|ILO| Iloilo Unlocked Literal Bible | CC-By |
 
 __Bible Portions__
@@ -49,17 +48,17 @@ _Portions of straight scripture_
 __Bible Editions__
 _Special Editions of the Whole Bible_
 
-|Language|Code     |1.0 |1.1 |1.2  |1.3   |1.6     |1.7        |
+|Language|Code     |1.0 |1.1 |1.2  |   1.6|1.7     |1.8        |
 |--------|---------|----|----|-----|------|--------|-----------|
 |        |         |Text|Refs|Study|Illust|Disciple|Large Print|
-|CEB     | ULB    |
+|CEB     | ULB     |
 |en-b    | BBE1961 |
 |ENG     | WEBBE2020|
 |en-t    | DEB2020 |
 |en-u    | AKJV2018|
 |Fra     | LSG1910 |
 |Fra     | ULB     |
-|ILO     | ULB    |
+|ILO     | ULB     |
 
 __NT Remix__
 
