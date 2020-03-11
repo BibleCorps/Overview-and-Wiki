@@ -17,27 +17,26 @@ _The English works on this site are intended to be used as sources for translati
 |American English |American| en-us ENU| Formal | Websters | MLS | Chicago
 
 
-__Bible Volumes__
+__Bible Information__
 _Portions of straight scripture_
 
-|Region|Lang Code|Base Translation|License|0.1|0.2|0.3|0.4|0.5|
-|--------|------|----------------|-------|---|---|---|---|---|
-|        |      |                |       |Law|Kingdom|Exile|Writings|NT|
-|World|en-b | BASIC Bible | TBD | 
-|World|ENG | World English Bible (BE)| PD |  
-|Africas|Fra|French Unlocked Literal Bible| CC-By|
-|Americas|en-t| Dynamic English Bible| CC-By|
-|Americas|en-u| American King James Version| PD|
-|Americas|Fra|Bible Segond 1910| PD|
-|Philippines|CEB | Cebuano Unlocked Literal Bible | CC-By | 
-|Philippines|ILO | Iloilo Unlocked Literal Bible | CC-By |
-| 
+|Region|Lang Code|Base Translation|Code |License|0.1|0.2|0.3|0.4|
+|--------|------|-----------------|-----|-------|---|---|---|---|
+|        |      |                 |    |       |Law|Kingdom|Exile|Writings|
+|World   |en-b  | BASIC Bible     |ENB-BBE|  TBD | 
+|World   |ENG   |World English Bible British Edition|ENG-WEBBE | PD |  
+|Africas |Fra   |French Unlocked Literal Bible|FRA-ULB| CC-By|
+|Americas|en-t  |[Dynamic English Bible](https://github.com/BeTheLight/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)| CC-By|
+|Americas|en-u  |American King James Version| PD|
+|Americas|Fra   |Bible Segond 1910| PD|
+|Philippines|CEB| Cebuano Unlocked Literal Bible | CC-By | 
+|Philippines|ILO| Iloilo Unlocked Literal Bible | CC-By |
 
 __New Testaments__
 _NT Portions with special content_
-|Region|Lang Code|Base Translation|License|0.6|0.7|0.8|
-|--------|------|----------------|-------|---|---|---|
-|        |      |                |       |Illustrated NT| Discipleship NT| Large Print NT|
+|Region|Lang Code|Base Translation|License|0.5|0.6|0.7|0.8|
+|--------|------|----------------|-------|---|---|---|---|
+|        |      |                |       |Text NT|Illustrated NT| Discipleship NT| Large Print NT|
 |World|en-b | BASIC Bible | TBD | 
 |World|ENG | World English Bible (BE)| PD |  
 |Africas|Fra|French Unlocked Literal Bible| CC-By|
@@ -50,41 +49,41 @@ _NT Portions with special content_
 __Bible Editions__
 _Special Editions of the Whole Bible_
 
-|Region|Lang Code|Base Translation|License|1.0|1.1|1.2|1.3|1.6|1.7|
-|------|---------|----------------|-------|---|---|---|---|---|---|
-|        |      |                |       |Text|Refs|Study|Illust|Disciple|Large Print|
-|World|en-b | BASIC Bible | TBD | 
-|World|ENG | World English Bible (BE)| PD |  
-|Africas|Fra|French Unlocked Literal Bible| CC-By|
-|Americas|en-t| Dynamic English Bible| CC-By|
-|Americas|en-u| American King James Version| PD|
-|Americas|Fra|Bible Segond 1910| PD|
-|Philippines|CEB | Cebuano Unlocked Literal Bible | CC-By | 
-|Philippines|ILO | Iloilo Unlocked Literal Bible | CC-By |
+|Language|Code     |1.0 |1.1 |1.2  |1.3   |1.6     |1.7        |
+|--------|---------|----|----|-----|------|--------|-----------|
+|        |         |Text|Refs|Study|Illust|Disciple|Large Print|
+|en-b    | BBE1961 |
+|ENG     | WEBBE2020|
+|Fra     | ULB     |
+|en-t    | DEB2020 |
+|en-u    | AKJV2018|
+|Fra     | LSG1910 |
+|CEB     | ULB    |
+|ILO     | ULB    |
 
 __NT Remix__
 
-|Region|Lang Code|Base Translation|License|2.0|2.1|2.2|2.4|2.5|2.6|
-|------|---------|----------------|-------|---|---|---|---|---|---|
-|      |         |                |       |NT Remix|Gospels|Church|Paul|John| Jesus|
-|World|en-b | BASIC Bible | TBD | 
-|World|ENG | World English Bible (BE)| PD |  
-|Africas|Fra|French Unlocked Literal Bible| CC-By|
-|Americas|en-t| Dynamic English Bible| CC-By|
-|Americas|en-u| American King James Version| PD|
-|Americas|Fra|Bible Segond 1910| PD|
-|Philippines|CEB | Cebuano Unlocked Literal Bible | CC-By | 
-|Philippines|ILO | Iloilo Unlocked Literal Bible | CC-By |
+|Language|Code     |2.0|2.1|2.2|2.4|2.5|2.6|
+|--------|---------|---|---|---|---|---|---|
+|        |         |NT Remix|Gospels|Church|Paul|John| Jesus|
+|en-b    | BBE1961 |
+|ENG     | WEBBE2020|
+|Fra     | ULB     |
+|en-t    | DEB2020 |
+|en-u    | AKJV2018|
+|Fra     | LSG1910 |
+|CEB     | ULB    |
+|ILO     | ULB    |
 
 __OT Remix__
-|Region|Lang Code|Base Translation|License|3.0|3.1|3.2|3.3|3.4|3.5|
-|------|---------|----------------|-------|---|---|---|---|---|---|
-|        |      |                |       |OT Remix|Genesis|Journey|Kingdom|Exile|Laws|
-|World|en-b | BASIC Bible | TBD | 
-|World|ENG | World English Bible (BE)| PD |  
-|Africas|Fra|French Unlocked Literal Bible| CC-By|
-|Americas|en-t| Dynamic English Bible| CC-By|
-|Americas|en-u| American King James Version| PD|
-|Americas|Fra|Bible Segond 1910| PD|
-|Philippines|CEB | Cebuano Unlocked Literal Bible | CC-By | 
-|Philippines|ILO | Iloilo Unlocked Literal Bible | CC-By |
+|Language|Work     |3.0     |3.1    |3.2    |3.3    |3.4  |3.5 |
+|--------|---------|--------|-------|-------|-------|-----|----|
+|        |         |OT Remix|Genesis|Journey|Kingdom|Exile|Laws|
+|en-b    | BBE1961 |
+|ENG     | WEBBE2020|
+|Fra     | ULB     |
+|en-t    | DEB2020 |
+|en-u    | AKJV2018|
+|Fra     | LSG1910 |
+|CEB     | ULB    |
+|ILO     | ULB    |
