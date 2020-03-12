@@ -23,7 +23,7 @@ __Bible Information__
 |----|------|------|-------|----|----------------|
 |BEN|Bangladesh|ULB|CC-By  |2019| [Bengali Unlocked Literal Bible](https://github.com/BeTheLight/BEN-B-ULB2019-cc-PSFM/tree/master/USFM)
 |CEB|Philippines|ULB  |CC-By   |2019|[Cebuano Unlocked Literal Bible](https://github.com/BeTheLight/CEB-B-ULB2019-CC-PSFM/tree/master/USFM) |
-|en-b|World |ENB-BBE|  TBD |1961|  BASIC Bible   |
+|en-b|World |ENB-BBE|  TBD |1961|  [BASIC Bible](https://github.com/BeTheLight/ENG-B-BBE1949-PD-Hooke/tree/master/PSFM)   |
 |ENG |World |ENG-WEBBE| PD |2020|[World English Bible British Edition](https://github.com/BeTheLight/ENG-B-WEBBE2020-pd-Johnson/tree/master/Output/)|
 |en-t| USA  |DEB   | CC-By |2020|[Dynamic English Bible](https://github.com/BeTheLight/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)|
 |en-u| USA  |AKJV  | PD    |2019|[American King James Version](https://github.com/BeTheLight/ENG-B-AKJV1999-pd-PSFM/tree/master/Output)|
