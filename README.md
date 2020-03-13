@@ -9,7 +9,7 @@ This site is a repository for source code. The source here presented represents 
 
 |Section| Title            | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 
 |-------|------------------|---------|---------|---------|---------|--------
-| __A__ | __[Literacy](https://github.com/BeTheLight/ENG-A-Literacy-PSFM)__     | [Light](https://bloomlibrary.org/browse?lang=en&langname=English)   | [Door](https://www.literacyevangelism.org/primers)    | Path    | Road    | Bridge 
+| __A__ | __[Literacy]__     | [Light](https://bloomlibrary.org/browse?lang=en&langname=English)   | [Door](https://www.literacyevangelism.org/primers)    | Path    | Road    | [Bridge](https://bookdash.org/books/?s=&languages%5B%5D=en) 
 | __B__ | __[Bibles](https://github.com/BeTheLight/Guidelines-and-Documentation-Wiki/blob/master/Bibles.md)__       | Volumes | Editions| NT Remix| OT Remix| 
 | __C__ | __[Christianity](https://github.com/BeTheLight/ENG-C-Christianity-PSFM/tree/master/PDF)__ |         | Discover| New Life| Growing |
 | __D__ | __[Discipleship](https://github.com/BeTheLight/ENG-D-Discipleship-PSFM/tree/master/PDF)__ |         | Maturing| Secret  | Fruit   | 
