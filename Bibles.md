@@ -37,9 +37,9 @@ __Bible Information__
 __Bible Portions__
 _Portions of straight scripture_
 
-|Language|Code     |0.1|0.2|0.3|0.4|0.5 |0.6 |0.7  |0.8   |
+|Language|Code     |0.1|0.2|0.3|0.4|0.5 |0.6 |0.7  |0.8   |0.9    |
 |--------|---------|---|---|---|---|----|----|-----|------|
-|        |         |Law|Kings|Exile|Writings|NT|Kids NT|Disciples NT|Large Print NT|
+|        |         |Law|Kings|Exile|Writings|OT |NT|Kids NT|Disciples NT|Large Print NT|
 |BEN     | ULB     |
 |CEB     | ULB     |
 |en-b    | BBE1961 |
@@ -55,7 +55,7 @@ _Portions of straight scripture_
 __Bible Editions__
 _Special Editions of the Whole Bible_
 
-|Language|Code     |1.0 |1.1 |1.2  |   1.6|1.7     |1.8        |
+|Language|Code     |1.0 |1.1 |1.2  |   1.7|1.8     |1.9        |
 |--------|---------|----|----|-----|------|--------|-----------|
 |        |         |Text|Refs|Study|Illust|Disciple|Large Print|
 |BEN     | ULB     |
