@@ -38,7 +38,7 @@ __Bible Portions__
 _Portions of straight scripture_
 
 |Language|Code     |0.1|0.2|0.3|0.4|0.5 |0.6 |0.7  |0.8   |0.9    |
-|--------|---------|---|---|---|---|----|----|-----|------|
+|--------|---------|---|---|---|---|----|----|-----|------|-------|
 |        |         |Law|Kings|Exile|Writings|OT |NT|Kids NT|Disciples NT|Large Print NT|
 |BEN     | ULB     |
 |CEB     | ULB     |
