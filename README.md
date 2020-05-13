@@ -38,7 +38,7 @@ This site is a repository for source code. The source here presented represents 
 | __Q__ | 
 | __R__ |
 | __S__ |
-| __T__ |
+| __T__ | __[Translation](https://github/BeTheLight/ENG-T-Translation-PSFM)__
 
 ### Library
 
