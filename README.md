@@ -19,11 +19,14 @@ This site is a repository for source code. The source here presented represents 
 
 ### Academy
 
-|Section| Title            | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 
+|       |                  | 00-19   | 20-39   | 40-59   | 60-79   | 80-99
 |-------|------------------|---------|---------|---------|---------|--------
+|       | ___Subject___    |_Language_|_Nature_| _STEM_  | _Law_   |_Christ_
+| __I__ | __Infant__ 0-4   |         |         |         |         |
 | __J__ | __Junior__ K-3   |         |         |
 | __K__ | __Kids__ 4-8     |         |         |
-| __L__ | __Learner__ 9-12 | Language|         | 
+| __L__ | __Learner__ 9-12 |         |         | 
+| __M__ | __Master__ Teaching|       |         |         | 
 
 ### Institute
 
@@ -32,11 +35,16 @@ This site is a repository for source code. The source here presented represents 
 | __N__ | __[Hermeneutics](https://github.com/BeTheLight/ENG-N-Hermeneutics-PSFM)__| Outline | Inductive | 
 | __O__ | __[Apologetics](https://github.com/BeTheLight/ENG-O-Apologetics-PSFM)__ |  |  | 
 | __P__ | __[Pastoral](https://github.com/BeTheLight/ENG-P-Pastoral-PSFM)__ |         | Philip | Planter | Pastor 
+| __Q__ | 
+| __R__ |
+| __S__ |
+| __T__ |
 
 ### Library
 
 |Section| Title            | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 
 |-------|------------------|---------|---------|---------|---------|--------
-| __H__ | __Help__        |         |         | 
-| __M__ | __Music__        |         |         | 
-| __R__ | __Reference__    | | | |
+| __W__ | __Worship__        |         |         | 
+| __X__ | __Reference__    | | | |
+| __Y__ | 
+| __Z__ | 
