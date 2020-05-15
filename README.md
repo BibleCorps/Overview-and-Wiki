@@ -1,50 +1,129 @@
-|[Leave Feedback](https://github.com/BeTheLight/Overview-and-Wiki/issues) | [Editable Wiki](https://github.com/BeTheLight/Overview-and-Wiki/wiki) |
+|[Leave Feedback](https://github.com/BibleCorps/Overview-and-Wiki/issues) | [Editable Wiki](https://github.com/BibleCorps/Overview-and-Wiki/wiki) |
 |-|-|
+
 # BTL Contents
 
 This site is a repository for source code. The source here presented represents a Christian Library. 
 
+
+
 ## BTL Library
 ### Christian Core
 
-|Section| Title            | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 
+| __A-Literacy__ | __[B-Bibles](https://github.com/Be-the-Light/Guidelines-and-Documentation-Wiki/blob/master/Bibles.md)| __[C-Christianity](https://github.com/Be-the-Light/ENG-C-Christianity-PSFM/tree/master/PDF)__ | __[D-Discipleship](https://github.com/Be-the-Light/ENG-D-Discipleship-PSFM/tree/master/PDF)__ | __[E-Evangelism](https://github.com/Be-the-Light/ENG-E-Evangelism-PSFM)__ | __F-Friends__ | __[G-Growth](https://github.com/Be-the-Light/ENG-G-Growth-PSFM)__  
 |-------|------------------|---------|---------|---------|---------|--------
-| __A__ | __Literacy__     | __[Light](https://bloomlibrary.org/browse?lang=en&langname=English)__   | __[Door](https://www.literacyevangelism.org/primers)__    | Path    | Road    | __[Bridge](https://bookdash.org/books/?s=&languages%5B%5D=en)__ 
-| __B__ | __[Bibles](https://github.com/BeTheLight/Guidelines-and-Documentation-Wiki/blob/master/Bibles.md)__       | Volumes | Editions| NT Remix| OT Remix| 
-| __C__ | __[Christianity](https://github.com/BeTheLight/ENG-C-Christianity-PSFM/tree/master/PDF)__ |         | Discover| New Life| Growing |
-| __D__ | __[Discipleship](https://github.com/BeTheLight/ENG-D-Discipleship-PSFM/tree/master/PDF)__ |         | Maturing| Secret  | Fruit   | 
-| __E__ | __[Evangelism](https://github.com/BeTheLight/ENG-E-Evangelism-PSFM)__   |         | Questions  | Friend  | Help! |
-| __F__ | __Friends__      |         | Family     | Health  | Work    |  
-| __G__ | __[Growth](https://github.com/BeTheLight/ENG-G-Growth-PSFM)__       |         | Evangelism | Discipleship | Missions | 
 
 ### Academy
 
-|       |                  | 00-19   | 20-39   | 40-59   | 60-79   | 80-99
-|-------|------------------|---------|---------|---------|---------|--------
-|       | ___Subject___    |_Language_|_Nature_| _STEM_  | _Law_   |_Christ_
-| __I__ | __Infant__ 0-4   |         |         |         |         |
-| __J__ | __Junior__ K-3   |         |         |
-| __K__ | __Kids__ 4-8     |         |         |
-| __L__ | __Learner__ 9-12 |         |         | 
-| __M__ | __Master__ Teaching|       |         |         | 
+|Birth-K      | Grade 1-4    | Grade 5-8  | Grade 9-12    | Teaching               
+|-------------|--------------|------------|---------------|------
+|__I-Infant__ | __J-Junior__ | __K-Kids__ | __L-Learner__ | __M-Master__
 
 ### Institute
 
-|Section| Title            | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 
-|-------|------------------|---------|---------|---------|---------|--------
-| __N__ | __[Hermeneutics](https://github.com/BeTheLight/ENG-N-Hermeneutics-PSFM)__| Outline | Inductive | 
-| __O__ | __[Apologetics](https://github.com/BeTheLight/ENG-O-Apologetics-PSFM)__ |  |  | 
-| __P__ | __[Pastoral](https://github.com/BeTheLight/ENG-P-Pastoral-PSFM)__ |         | Philip | Planter | Pastor 
-| __Q__ | 
-| __R__ |
-| __S__ |
-| __T__ | __[Translation](https://github/BeTheLight/ENG-T-Translation-PSFM)__
+| __[N-Hermeneutics](https://github.com/Be-the-Light/ENG-N-Hermeneutics-PSFM)__ | __[O-Apologetics](https://github.com/Be-the-Light/ENG-O-Apologetics-PSFM)__ | __[P-Pastoral](https://github.com/Be-the-Light/ENG-P-Pastoral-PSFM)__ |__[T-Translation](https://github/Be-the-Light/ENG-T-Translation-PSFM)__ | __W-Worship__ | __X-Reference__
+|-------|------------------|---------|---------|--|--
+__English Languages__
 
-### Library
+_The English works on this site are intended to be used as sources for translation. In order to facilitate translation, the following codes are used to specifically identify the type of English used in each work. Note that the dashes in the language code will be used in descriptions but not filenames. That is, Basic English Bible is listed as en-b in tables, but the project name will be ENB-B-BBE1949(etc.)_
 
-|Section| Title            | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 
-|-------|------------------|---------|---------|---------|---------|--------
-| __W__ | __Worship__        |         |         | 
-| __X__ | __Reference__    | | | |
-| __Y__ | 
-| __Z__ | 
+
+|Name|Language|Code|Vocab|Dictionary|Grammar|Style
+|----|--------|----|-----|----------|-------|----
+|Accessible English| British | en-a ENA | low | Accessible EasyEnglish word Lists | | | Accessible English
+|Basic English | British | en-b ENB| 1000 | Ogden | Ogden | 
+|Core English | British | en-c ENC| 1500 | EasyEnglish level A word list | EasyEnglish | EasyEnglish
+|Developmental English | British| en-d | 2500 | EasyEnglish level B word list | EasyEnglish | EasyEnglish 
+|Easy English | British | en-e ENE | 3500 | EasyEnglish Semantically Analysed Texts word list | | | 
+|English | British | en-gb ENG | Formal | Oxford | Cambridge | Oxford 
+|Restricted English |American |en-r ENR| 1000 | en-r 
+|Special English | American |en-s ENS| 1200 | VOA Special English Dictionary | VOA | VOA 
+|Transitional English | American | en-t ENT| 2500 | | | Unfolding Word Dynamic Style Guide
+|American English |American| en-us ENU| Formal | Websters | MLS | Chicago
+
+
+__Bible Information__
+
+|Lang|Region|Code |License|Date|Translation Name|
+|----|------|------|-------|----|----------------|
+|BEN|Bangladesh|ULB|CC-By  |2019| [Bengali Unlocked Literal Bible](https://github.com/BeTheLight/BEN-B-ULB2019-cc-PSFM/tree/master/USFM)
+|CEB|Philippines|ULB  |CC-By   |2019|[Cebuano Unlocked Literal Bible](https://github.com/BeTheLight/CEB-B-ULB2019-CC-PSFM/tree/master/USFM) |
+|en-b|World |ENB-BBE|  PD |1961|  [BASIC Bible](https://github.com/BeTheLight/ENG-B-BBE1949-PD-Hooke/tree/master/PSFM)   |
+|ENG |World |ENG-WEBBE| PD |2020|[World English Bible British Edition](https://github.com/BeTheLight/ENG-B-WEBBE2020-pd-Johnson/tree/master/Output/)|
+|en-t| USA  |DEB   | CC-By |2020|[Dynamic English Bible](https://github.com/BeTheLight/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)|
+|en-u| USA  |AKJV  | PD    |2019|[American King James Version](https://github.com/BibleCorps/ENG-B-AKJV1999-pd-PSFM/tree/master/Output)|
+|FRA |Africa|ULB   |CC-By  |2019|[French Unlocked Literal Bible](https://github.com/BibleCorps/FRA-B-ULB2019-cc-PSFM/tree/master/USFM)
+|FRA |USA   |LSG   |PD     |1910|Louis Segond 1910|
+|HIN |India |ULB   |CC-By  |2019|[Hindi Unlocked Literal Bible](https://github.com/BibleCorps/HIN-B-ULB2019-cc-PSFM/tree/master/USFM)
+|ILO |Philippines|ULB|CC-By|2019|[Iloilo Unlocked Literal Bible](https://github.com/BibleCorps/ILO-B-ULB2019-cc-PSFM/tree/master/USFM) |
+|IND |Indonesia| ULB|CC-By|2019|[Indonesian Unlocked Literal Bible](https://github.com/BibleCorps/ILO-B-ULB2019-cc-PSFM/tree/master/USFM)
+|VIE |Vietnam | ULB |CC-By|2019|[Vietnamese Unlocked Literal Bible](https://github.com/BibleCorps/VIE-B-ULB2019-cc-PSFM/tree/master/USFM)
+
+__Bible Portions__
+_Portions of straight scripture_
+
+|Language|Code     |0.1|0.2|0.3|0.4|0.5 |0.6 |0.7  |0.8   |0.9    |
+|--------|---------|---|---|---|---|----|----|-----|------|-------|
+|        |         |Law|Kings|Exile|Writings|OT |NT|Kids NT|Disciples NT|Large Print NT|
+|BEN     | ULB     |
+|CEB     | ULB     |
+|en-b    | BBE1961 |
+|ENG     | WEBBE2020|
+|en-t    | DEB2020 |
+|en-u    | AKJV2018|
+|Fra     | LSG1910 |
+|Fra     | ULB     |
+|HIN     | ULB     |
+|ILO     | ULB     |
+|IND     | ULB     |
+
+__Bible Editions__
+_Special Editions of the Whole Bible_
+
+|Language|Code     |1.0 |1.1 |1.2  |   1.7|1.8     |1.9        |
+|--------|---------|----|----|-----|------|--------|-----------|
+|        |         |Text|Refs|Study|Illust|Disciple|Large Print|
+|BEN     | ULB     |
+|CEB     | ULB     |
+|en-b    | BBE1961 |
+|ENG     | WEBBE2020|
+|en-t    | DEB2020 |
+|en-u    | AKJV2018|
+|Fra     | LSG1910 |
+|Fra     | ULB     |
+|HIN     | ULB     |
+|ILO     | ULB     |
+|IND     | ULB     |
+
+__NT Remix__
+
+|Language|Code     |2.0|2.1|2.2|2.4|2.5|2.6|
+|--------|---------|---|---|---|---|---|---|
+|        |         |NT Remix|Gospels|Church|Paul|John| Jesus|
+|BEN     | ULB     |
+|CEB     | ULB     |
+|en-b    | BBE1961 |
+|ENG     | WEBBE2020|
+|en-t    | DEB2020 |
+|en-u    | AKJV2018|
+|Fra     | LSG1910 |
+|Fra     | ULB     |
+|HIN     | ULB     |
+|ILO     | ULB     |
+|IND     | ULB     |
+
+__OT Remix__
+|Language|Work     |3.0     |3.1    |3.2    |3.3    |3.4  |3.5 |
+|--------|---------|--------|-------|-------|-------|-----|----|
+|        |         |OT Remix|Genesis|Journey|Kingdom|Exile|Laws|
+|BEN     | ULB     |
+|CEB     | ULB     |
+|en-b    | BBE1961 |
+|ENG     | WEBBE2020|
+|en-t    | DEB2020 |
+|en-u    | AKJV2018|
+|Fra     | LSG1910 |
+|Fra     | ULB     |
+|HIN     | ULB     |
+|ILO     | ULB     |
+|IND     | ULB     |
