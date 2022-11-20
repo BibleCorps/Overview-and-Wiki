@@ -21,18 +21,19 @@ __Bible Information__
 
 |Lang|Region|Code |License|Date|Translation Name|
 |----|------|------|-------|----|----------------|
-|BEN|Bangladesh|ULB|CC-By  |2019| [Bengali Unlocked Literal Bible](https://github.com/BeTheLight/BEN-B-ULB2019-cc-PSFM/tree/master/USFM)
-|CEB|Philippines|ULB  |CC-By   |2019|[Cebuano Unlocked Literal Bible](https://github.com/BeTheLight/CEB-B-ULB2019-CC-PSFM/tree/master/USFM) |
-|en-b|World |ENB-BBE|  PD |1961|  [BASIC Bible](https://github.com/BeTheLight/ENG-B-BBE1949-PD-Hooke/tree/master/PSFM)   |
-|ENG |World |ENG-WEBBE| PD |2020|[World English Bible British Edition](https://github.com/BeTheLight/ENG-B-WEBBE2020-pd-Johnson/tree/master/Output/)|
-|en-t| USA  |DEB   | CC-By |2020|[Dynamic English Bible](https://github.com/BeTheLight/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)|
-|en-u| USA  |AKJV  | PD    |2019|[American King James Version](https://github.com/BeTheLight/ENG-B-AKJV1999-pd-PSFM/tree/master/Output)|
-|FRA |Africa|ULB   |CC-By  |2019|[French Unlocked Literal Bible](https://github.com/BeTheLight/FRA-B-ULB2019-cc-PSFM/tree/master/USFM)
+|BEN|Bangladesh|ULB|CC-By  |2019| [Bengali Unlocked Literal Bible](https://github.com/BibleCorps/BEN-B-ULB2019-cc-PSFM/tree/master/USFM)
+|CEB|Philippines|ULB  |CC-By   |2019|[Cebuano Unlocked Literal Bible](https://github.com/BibleCorps/CEB-B-ULB2019-CC-PSFM/tree/master/USFM) |
+|en-b|World |BBE|  PD |1961|  [BASIC Bible](https://github.com/BibleCorps/ENG-B-BBE1949-PD-Hooke/tree/master/PSFM)   |
+|ENG |World |LSV| CC-By|2020|[Literal Standard Version](https://github.com/BibleCorps/ENG-B-WEBBE2020-pd-Johnson/tree/master/Output/)|
+|ENG |World |WEBBE| PD |2020|[World English Bible British Edition](https://github.com/BibleCorps/ENG-B-WEBBE2020-pd-Johnson/tree/master/Output/)|
+|en-t| USA  |DEB   | CC-By |2020|[Dynamic English Bible](https://github.com/BibleCorps/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)|
+|en-u| USA  |AKJV  | PD    |2019|[American King James Version](https://github.com/BibleCorps/ENG-B-AKJV1999-pd-PSFM/tree/master/Output)|
+|FRA |Africa|ULB   |CC-By  |2019|[French Unlocked Literal Bible](https://github.com/BibleCorps/FRA-B-ULB2019-cc-PSFM/tree/master/USFM)
 |FRA |USA   |LSG   |PD     |1910|Louis Segond 1910|
-|HIN |India |ULB   |CC-By  |2019|[Hindi Unlocked Literal Bible](https://github.com/BeTheLight/HIN-B-ULB2019-cc-PSFM/tree/master/USFM)
-|ILO |Philippines|ULB|CC-By|2019|[Iloilo Unlocked Literal Bible](https://github.com/BeTheLight/ILO-B-ULB2019-cc-PSFM/tree/master/USFM) |
-|IND |Indonesia| ULB|CC-By|2019|[Indonesian Unlocked Literal Bible](https://github.com/BeTheLight/ILO-B-ULB2019-cc-PSFM/tree/master/USFM)
-|VIE |Vietnam | ULB |CC-By|2019|[Vietnamese Unlocked Literal Bible](https://github.com/BeTheLight/VIE-B-ULB2019-cc-PSFM/tree/master/USFM)
+|HIN |India |ULB   |CC-By  |2019|[Hindi Unlocked Literal Bible](https://github.com/BibleCorps/HIN-B-ULB2019-cc-PSFM/tree/master/USFM)
+|ILO |Philippines|ULB|CC-By|2019|[Iloilo Unlocked Literal Bible](https://github.com/BibleCorps/ILO-B-ULB2019-cc-PSFM/tree/master/USFM) |
+|IND |Indonesia| ULB|CC-By|2019|[Indonesian Unlocked Literal Bible](https://github.com/BibleCorps/ILO-B-ULB2019-cc-PSFM/tree/master/USFM)
+|VIE |Vietnam | ULB |CC-By|2019|[Vietnamese Unlocked Literal Bible](https://github.com/BibleCorps/VIE-B-ULB2019-cc-PSFM/tree/master/USFM)
 
 __Bible Portions__
 _Portions of straight scripture_
@@ -61,6 +62,7 @@ _Special Editions of the Whole Bible_
 |BEN     | ULB     |
 |CEB     | ULB     |
 |en-b    | BBE1961 |
+|ENG     | LSV     |
 |ENG     | WEBBE2020|
 |en-t    | DEB2020 |
 |en-u    | AKJV2018|
@@ -70,7 +72,7 @@ _Special Editions of the Whole Bible_
 |ILO     | ULB     |
 |IND     | ULB     |
 
-__NT Remix__
+[_NT Remix__](https://github.com/Avante-Vangard/AV-B20-NTRemixer)
 
 |Language|Code     |2.0|2.1|2.2|2.4|2.5|2.6|
 |--------|---------|---|---|---|---|---|---|
@@ -78,6 +80,7 @@ __NT Remix__
 |BEN     | ULB     |
 |CEB     | ULB     |
 |en-b    | BBE1961 |
+|ENG     | LSV     |
 |ENG     | WEBBE2020|
 |en-t    | DEB2020 |
 |en-u    | AKJV2018|
@@ -87,13 +90,14 @@ __NT Remix__
 |ILO     | ULB     |
 |IND     | ULB     |
 
-__OT Remix__
+[_OT Remix__](https://github.com/Avante-Vangard/AV-B30-OTRemixer)
 |Language|Work     |3.0     |3.1    |3.2    |3.3    |3.4  |3.5 |
 |--------|---------|--------|-------|-------|-------|-----|----|
 |        |         |OT Remix|Genesis|Journey|Kingdom|Exile|Laws|
 |BEN     | ULB     |
 |CEB     | ULB     |
 |en-b    | BBE1961 |
+|ENG     | LSV     |
 |ENG     | WEBBE2020|
 |en-t    | DEB2020 |
 |en-u    | AKJV2018|
