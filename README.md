@@ -10,7 +10,7 @@ This site is a repository for source code. The source here presented represents 
 ## BTL Library
 ### Christian Core
 
-| __A-Literacy__ | __[B-Bibles](https://github.com/Be-the-Light/Guidelines-and-Documentation-Wiki/blob/master/Bibles.md)__ | __[C-Christianity](https://github.com/Be-the-Light/ENG-C-Christianity-PSFM/tree/master/PDF)__ | __[D-Discipleship](https://github.com/Be-the-Light/ENG-D-Discipleship-PSFM/tree/master/PDF)__ | __[E-Evangelism](https://github.com/Be-the-Light/ENG-E-Evangelism-PSFM)__ | __F-Friends__ | __[G-Growth](https://github.com/Be-the-Light/ENG-G-Growth-PSFM)__  
+| __A-Literacy__ | __[B-Bibles](https://github.com/BibleCorps/Overview-and-Wiki/blob/master/Bibles.md)__ | __[C-Christianity](https://github.com/Be-the-Light/ENG-C-Christianity-PSFM/tree/master/PDF)__ | __[D-Discipleship](https://github.com/Be-the-Light/ENG-D-Discipleship-PSFM/tree/master/PDF)__ | __[E-Evangelism](https://github.com/Be-the-Light/ENG-E-Evangelism-PSFM)__ | __F-Friends__ | __[G-Growth](https://github.com/Be-the-Light/ENG-G-Growth-PSFM)__  
 |-------|------------------|---------|---------|---------|---------|--------
 
 ### Academy
