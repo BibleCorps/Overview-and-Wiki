@@ -53,7 +53,7 @@ __Bible Information__
 |en-t| USA  |DEB   | CC-By |2020|[Dynamic English Bible](https://github.com/BeTheLight/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)|
 |en-u| USA  |AKJV  | PD    |2019|[American King James Version](https://github.com/BibleCorps/ENG-B-AKJV1999-pd-PSFM/tree/master/Output)|
 |FRA |Africa|ULB   |CC-By  |2019|[French Unlocked Literal Bible](https://github.com/BibleCorps/FRA-B-ULB2019-cc-PSFM/tree/master/USFM)
-|FRA |USA   |LSG   |PD     |1910|Louis Segond 1910|
+|FRA |USA   |LSG   |PD     |1910|[Louis Segond 1910](https://github.com/BibleCorps/FRA-B-LSG1910-PD-UBS/tree/main/p.sfm)|
 |HIN |India |ULB   |CC-By  |2019|[Hindi Unlocked Literal Bible](https://github.com/BibleCorps/HIN-B-ULB2019-cc-PSFM/tree/master/USFM)
 |ILO |Philippines|ULB|CC-By|2019|[Iloilo Unlocked Literal Bible](https://github.com/BibleCorps/ILO-B-ULB2019-cc-PSFM/tree/master/USFM) |
 |IND |Indonesia| ULB|CC-By|2019|[Indonesian Unlocked Literal Bible](https://github.com/BibleCorps/ILO-B-ULB2019-cc-PSFM/tree/master/USFM)
