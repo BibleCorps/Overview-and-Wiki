@@ -51,7 +51,7 @@ __Bible Information__
 |en-b|World |ENB-BBE|  PD |1961|  [BASIC Bible](https://github.com/BeTheLight/ENG-B-BBE1949-PD-Hooke/tree/master/PSFM)   |
 |ENG |World |ENG-WEBBE| PD |2020|[World English Bible British Edition](https://github.com/BeTheLight/ENG-B-WEBBE2020-pd-Johnson/tree/master/Output/)|
 |en-t| USA  |DEB   | CC-By |2020|[Dynamic English Bible](https://github.com/BeTheLight/ENG-B-DEB2020-cc-PSFM/blob/master/Output/)|
-|en-u| USA  |AKJV  | PD    |2019|[American King James Version](https://github.com/BibleCorps/ENG-B-AKJV1999-pd-PSFM/tree/master/Output)|
+|en-u| USA  |AKJV  | PD    |2019|[American King James Version](https://github.com/BibleCorps/ENG-B-AKJV2018-pd-PSFM)|
 |FRA |Africa|ULB   |CC-By  |2019|[French Unlocked Literal Bible](https://github.com/BibleCorps/FRA-B-ULB2019-cc-PSFM/tree/master/USFM)
 |FRA |USA   |LSG   |PD     |1910|[Louis Segond 1910](https://github.com/BibleCorps/FRA-B-LSG1910-PD-UBS/tree/main/p.sfm)|
 |HIN |India |ULB   |CC-By  |2019|[Hindi Unlocked Literal Bible](https://github.com/BibleCorps/HIN-B-ULB2019-cc-PSFM/tree/master/USFM)
