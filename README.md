@@ -57,6 +57,7 @@ __Bible Information__
 |HIN |India |ULB   |CC-By  |2019|[Hindi Unlocked Literal Bible](https://github.com/BibleCorps/HIN-B-ULB2019-cc-PSFM/tree/master/USFM)
 |ILO |Philippines|ULB|CC-By|2019|[Iloilo Unlocked Literal Bible](https://github.com/BibleCorps/ILO-B-ULB2019-cc-PSFM/tree/master/USFM) |
 |IND |Indonesia| ULB|CC-By|2019|[Indonesian Unlocked Literal Bible](https://github.com/BibleCorps/ILO-B-ULB2019-cc-PSFM/tree/master/USFM)
+|NEP |Nepali  | UDB |CC-By|2018|[Unlocked Dynamic Bible in Nepali](https://github.com/BibleCorps/NEP-B-UDB2019-cc-D43/tree/main/PSFM)
 |VIE |Vietnam | ULB |CC-By|2019|[Vietnamese Unlocked Literal Bible](https://github.com/BibleCorps/VIE-B-ULB2019-cc-PSFM/tree/master/USFM)
 
 __Bible Portions__
@@ -76,6 +77,8 @@ _Portions of straight scripture_
 |HIN     | ULB     |
 |ILO     | ULB     |
 |IND     | ULB     |
+|NEP     | UDB     |
+|VIE     | ULB     |
 
 __Bible Editions__
 _Special Editions of the Whole Bible_
@@ -94,6 +97,8 @@ _Special Editions of the Whole Bible_
 |HIN     | ULB     |
 |ILO     | ULB     |
 |IND     | ULB     |
+|NEP     | UDB     |
+|VIE     | ULB     |
 
 __NT Remix__
 
@@ -111,6 +116,8 @@ __NT Remix__
 |HIN     | ULB     |
 |ILO     | ULB     |
 |IND     | ULB     |
+|NEP     | UDB     |
+|VIE     | ULB     |
 
 __OT Remix__
 |Language|Work     |3.0     |3.1    |3.2    |3.3    |3.4  |3.5 |
@@ -127,3 +134,5 @@ __OT Remix__
 |HIN     | ULB     |
 |ILO     | ULB     |
 |IND     | ULB     |
+|NEP     | UDB     |
+|VIE     | ULB     |
