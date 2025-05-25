@@ -91,7 +91,7 @@ _Special Editions of the Whole Bible_
 |en-b    | BBE1961 |
 |ENG     | WEBBE2020|
 |en-t    | DEB2020 |
-|en-u    | AKJV2018|
+|en-u    | AKJV2018|[IA](https://archive.org/details/eng-b-akjv-2020-print-text/mode/1up)
 |Fra     | LSG1910 |
 |Fra     | ULB     |
 |HIN     | ULB     |
