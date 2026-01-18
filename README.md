@@ -3,7 +3,7 @@
 
 # BTL Contents
 
-This site is a repository for source code. The source here presented represents a Christian Library. 
+This site is a repository for source code. The source here presented represents a Christian Library. The English Library (will be) prepared for translation into target languages from English.
 
 
 
