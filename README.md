@@ -21,7 +21,7 @@ This site is a repository for source code. The source here presented represents 
 
 ### Institute
 
-| __[N-Hermeneutics](https://globalchristianvoices.blogspot.com/p/btl-hermeneutics-library.html)__ | __[O-Apologetics](https://globalchristianvoices.blogspot.com/p/btl-apologetics-library.html)__ | __[P-Pastoral]([https://globalchristianvoices.blogspot.com/p/btl-pastoral-library.html)__ |__[T-Translation]([https://globalchristianvoices.blogspot.com/p/biblecorps-translators-library-project-t.html)__ | __W-Worship__ | __[X-Reference](https://globalchristianvoices.blogspot.com/p/biblecorps-reference-library-project-x.html)__
+| __[N-Hermeneutics](https://globalchristianvoices.blogspot.com/p/btl-hermeneutics-library.html)__ | __[O-Apologetics](https://globalchristianvoices.blogspot.com/p/btl-apologetics-library.html)__ | __[P-Pastoral](https://globalchristianvoices.blogspot.com/p/btl-pastoral-library.html)__ |__[T-Translation](https://globalchristianvoices.blogspot.com/p/biblecorps-translators-library-project-t.html)__ | __W-Worship__ | __[X-Reference](https://globalchristianvoices.blogspot.com/p/biblecorps-reference-library-project-x.html)__
 |-------|------------------|---------|---------|--|--
 
 _The English works on this site are intended to be used as sources for translation. In order to facilitate translation, the following codes are used to specifically identify the type of English used in each work. Note that the dashes in the language code will be used in descriptions but not filenames. That is, Basic English Bible is listed as en-b in tables, but the project name will be ENB-B-BBE1949(etc.)_
