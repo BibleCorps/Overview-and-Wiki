@@ -10,20 +10,19 @@ This site is a repository for source code. The source here presented represents 
 ## BTL Library
 ### Christian Core
 
-| __A-Literacy__ | __[B-Bibles](https://github.com/BibleCorps/Overview-and-Wiki/blob/master/Bibles.md)__ | __[C-Christianity](https://github.com/Be-the-Light/ENG-C-Christianity-PSFM/tree/master/PDF)__ | __[D-Discipleship](https://github.com/Be-the-Light/ENG-D-Discipleship-PSFM/tree/master/PDF)__ | __[E-Evangelism](https://github.com/Be-the-Light/ENG-E-Evangelism-PSFM)__ | __F-Friends__ | __[G-Growth](https://github.com/Be-the-Light/ENG-G-Growth-PSFM)__  
+| __A-Literacy__ | __[B-Bibles](https://github.com/BibleCorps/Overview-and-Wiki/blob/master/Bibles.md)__ | __[C-Christianity](https://globalchristianvoices.blogspot.com/p/btl-christian-library.html)__ | __[D-Discipleship](https://globalchristianvoices.blogspot.com/p/btl-discipleship-library.html)__ | __[E-Evangelism](https://globalchristianvoices.blogspot.com/p/btl-evangelism-library.html)__ | __[F-Friends](https://globalchristianvoices.blogspot.com/p/btl-evangelism-library.html)__ | __[G-Growth](https://globalchristianvoices.blogspot.com/p/be-light-growth-library-project-g.html)__  
 |-------|------------------|---------|---------|---------|---------|--------
 
 ### Academy
 
 |Birth-K      | Grade 1-4    | Grade 5-8  | Grade 9-12    | Teaching               
 |-------------|--------------|------------|---------------|------
-|__I-Infant__ | __J-Junior__ | __K-Kids__ | __L-Learner__ | __M-Master__
+|__[I-Infant](https://globalchristianvoices.blogspot.com/p/btl-childrens-book-library-project-i.html)__ | __J-Junior__ | __K-Kids__ | __L-Learner__ | __[M-Master](https://globalchristianvoices.blogspot.com/p/btl-schoolmaster-library.html)__
 
 ### Institute
 
-| __[N-Hermeneutics](https://github.com/Be-the-Light/ENG-N-Hermeneutics-PSFM)__ | __[O-Apologetics](https://github.com/Be-the-Light/ENG-O-Apologetics-PSFM)__ | __[P-Pastoral](https://github.com/Be-the-Light/ENG-P-Pastoral-PSFM)__ |__[T-Translation](https://github/Be-the-Light/ENG-T-Translation-PSFM)__ | __W-Worship__ | __X-Reference__
+| __[N-Hermeneutics]([https://github.com/Be-the-Light/ENG-N-Hermeneutics-PSFM](https://globalchristianvoices.blogspot.com/p/btl-hermeneutics-library.html))__ | __[O-Apologetics](https://globalchristianvoices.blogspot.com/p/btl-apologetics-library.html)__ | __[P-Pastoral]([https://globalchristianvoices.blogspot.com/p/btl-pastoral-library.html)__ |__[T-Translation]([https://globalchristianvoices.blogspot.com/p/biblecorps-translators-library-project-t.html)__ | __W-Worship__ | __[X-Reference](https://globalchristianvoices.blogspot.com/p/biblecorps-reference-library-project-x.html)__
 |-------|------------------|---------|---------|--|--
-__English Languages__
 
 _The English works on this site are intended to be used as sources for translation. In order to facilitate translation, the following codes are used to specifically identify the type of English used in each work. Note that the dashes in the language code will be used in descriptions but not filenames. That is, Basic English Bible is listed as en-b in tables, but the project name will be ENB-B-BBE1949(etc.)_
 
